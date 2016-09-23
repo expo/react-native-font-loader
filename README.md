@@ -1,2 +1,1 @@
-# react-native-font-loader [![Slack](http://slack.exponentjs.com/badge.svg)](http://slack.exponentjs.com)
-Dynamically loads fonts instead of having to add them to your project upfront
+This placeholder repo will be deleted; see https://docs.getexponent.com/versions/latest/sdk/font.html for how to load fonts in Exponent.
